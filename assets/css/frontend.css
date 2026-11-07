@@ -1,0 +1,14 @@
+.lcc-hint {
+	margin-top: 6px;
+	font-size: 12px;
+	line-height: 1.4;
+	opacity: 0.75;
+}
+
+.listivo-field-group.lcc-locked .listivo-input-v2__clear {
+	display: none;
+}
+
+.listivo-field-group.lcc-locked input {
+	cursor: not-allowed;
+}
